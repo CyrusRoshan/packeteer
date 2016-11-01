@@ -1,0 +1,20 @@
+{
+  "name": "packeteer",
+  "version": "1.0.0",
+  "description": "MITM mobile apps and modify request and response data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yarabarla/packeteer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yarabarla/packeteer/issues"
+  },
+  "homepage": "https://github.com/yarabarla/packeteer#readme"
+}
